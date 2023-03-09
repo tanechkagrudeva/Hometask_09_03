@@ -8,3 +8,5 @@ def function_2():
     """делает заглавными первые буквы каждого слова в строке"""
     print(str(function_1()).capitalize())
 
+
+ develop

@@ -5,5 +5,10 @@ def function_1():
     print(n.lower())
 
 def function_2():
+
     """делает заглавными первые буквы каждого слова в строке и дополнительное слово"""
     print(str(function_1()).capitalize(),"Yes")
+
+
+
+
